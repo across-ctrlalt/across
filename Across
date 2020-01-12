@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Across</title>
+	</head>
+<body style= "background-color: black">
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <div>
+	<p>	
+        <H2 align="center" style= "color: white"> <font face= "eurostar"> A c r o s s </font></H2>
+    <hr style= "color: white" width="200">
+<center>
+    <a href="https://steamcommunity.com/id/Oasissssssssssss/">
+		<img src="steam.png " alt="My steam" height="30   " width="30" align="center">
+    </a>
+    <a href="https://vk.com/acrossssss"><img src="vk.png " alt="My VK" height="30" width="30" align="center">
+    </a>
+</center>
+    </div>
+</body>
+</html>
